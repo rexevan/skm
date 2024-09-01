@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "6d2fc41e"
+  },
+  "intro.qmd": {
+    "intro.html": "441898ae"
+  },
+  "summary.qmd": {
+    "summary.html": "eac72b95"
+  },
+  "references.qmd": {
+    "references.html": "9a9bd393"
+  },
+  "09-lampiran.qmd": {
+    "09-lampiran.html": "8b60c03c"
+  },
+  "01-pendahuluan.qmd": {
+    "01-pendahuluan.html": "e9dab4a4"
+  },
+  "02-metodologi.qmd": {
+    "02-metodologi.html": "fe8bb190"
+  },
+  "03-pengumpulan-data.qmd": {
+    "03-pengumpulan-data.html": "05d4019a"
+  },
+  "04-pengolahan-data.qmd": {
+    "04-pengolahan-data.html": "e889fb70"
+  },
+  "05-analisis-data.qmd": {
+    "05-analisis-data.html": "9722e01c"
+  },
+  "06-rencana-tindak-lanjut.qmd": {
+    "06-rencana-tindak-lanjut.html": "db3a1af7"
+  },
+  "07-penutup.qmd": {
+    "07-penutup.html": "588da15e"
+  },
+  "08-daftar-pustaka.qmd": {
+    "08-daftar-pustaka.html": "94b88707"
+  }
+}

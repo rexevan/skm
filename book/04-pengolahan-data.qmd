@@ -1,0 +1,251 @@
+# Pengolahan Data 
+
+Pengolahan data hasil SKD2024 pada triwulan II mencakup realisasi hasil pengumpulan data dan tingkat kepuasan pengguna terhadap layanan PST BPS Kabupaten Sikka.Hasil pengolahan data berupa jumlah, persentase, dan indeks yang disajikan dalam bentuk table dan grafik.
+
+
+
+## Tabulasi Data 
+
+
+
+Pengolahan data menggunakan tabel silang untuk menggambarkan hubungan dua atau lebih variabel. Perbedaan dan persamaan antara dua atau lebih variable dapat diidentifikasi dengan tabulasi silang. Dalam analisis data, tabulasi silang akan memudahkan dalam memahami distribusi realisasi responden hasil pengumpulan data.
+
+
+## Indeks Kepuasan Konsumen (IKM) Metode BPS
+
+
+Indeks Kepuasan Konsumen (IKK) merupakan ukuran untuk menilai tingkat kepuasan konsumen terhadap pelayanan yang diberikan oleh unit PST BPS. Dengan demikian, IKK yang dihitung dalam SKD 2024 adalah IKK terhadap pelayanan PST BPS. IKK terhadap pelayanan PST BPS diperoleh dengan menghitung rata-rata tertimbang skor tingkat kepuasan berdasarkan 12 atribut pertanyaan (variabel) yang terdapat dalam Blok II kuesioner VKD24.
+
+Langkah-langkah penghitungan IKK sebagai berikut:
+1.	Menghitung Penimbang
+Penimbang diperoleh dengan cara membagi rata-rata tingkat kepentingan masing-masing atribut pelayanan dengan jumlah rata-rata tingkat kepentingan seluruh atribut pelayanan.
+Rumus penimbang:
+
+
+
+
+
+$$
+w_i = \frac{\bar y_i}{\sum_{i = 1}^{12} {\bar y_i}}
+$$
+
+
+dengan:
+
+$w_i$ = penimbang atribut pelayanan ke-$i$, $\sum_{i=1}^{12}{w_i} = 1$
+
+
+$y_i$ = rata-rata tingkat kepentingan atribut pelayanan ke-$i$
+
+$i$	= 1, 2, …, 12
+
+
+2.	Menghitung Rata-Rata Tertimbang Skor Kepuasan ($IKK’$)
+
+
+$IKK’$ diperoleh dengan cara menghitung rata-rata tertimbang skor kepuasan berdasarkan 12 atribut pelayanan.
+
+Rumus IKK’:
+
+$$
+IKK' = \frac{\sum_{i=1}^{12}{w_i \times \bar x_i}}{\sum_{i=1}^{12}{w_i}}
+$$
+
+dengan
+ 
+$x_i$ = rata-rata tingkat kepuasan atribut pelayanan ke-$i$
+ 
+
+
+3.	Menghitung IKK
+
+Penghitungan IKK’ menghasilkan nilai yang berkisar antara 1 sampai 10 sesuai dengan skala penilaian konsumen. IKK merupakan hasil konversi nilai IKK’ menggunakan rumus berikut:
+ 
+
+
+
+
+𝐼𝐾𝐾 =
+ 
+𝐼𝐾𝐾′
+
+ 
+𝑆𝑘𝑎𝑙𝑎 𝑚𝑎𝑘𝑠𝑖𝑚𝑢𝑚 𝑝𝑒𝑛𝑖𝑙𝑎𝑖𝑎𝑛
+ 
+
+× 100 =
+ 
+𝐼𝐾𝐾′
+
+ 
+10
+ 
+
+× 100
+ 
+
+Nilai IKK berdasarkan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2017 tentang Pedoman Penyusunan Survei Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik dikategorikan menjadi 4 sebagaimana dalam Tabel 1.1.
+
+
+## Indeks Kepuasan Masyarakat (IKM) Metode KemenPANRB
+
+
+
+
+
+
+## Indeks Persepsi Kualitas Pelayanan (IPKP) Metode KemenPANRB
+
+
+Indeks Kepuasan Masyarakat (IKM) merupakan ukuran kualitas pelayanan yang diberikan oleh unit PST BPS sebagai unit penyelenggara pelayanan publik di BPS. Penghitungan IKM berpedoman pada Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2017 tentang Pedoman Penyusunan Survei Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik. IKM diperoleh dengan menghitung rata-rata tertimbang skor tingkat kepuasan berdasarkan 9 atribut pertanyaan (variabel) sebagaimana diatur dalam peraturan tersebut yang terdapat dalam Blok II kuesioner VKD24.
+
+## Indeks Persepsi Anti Korupsi (IPAK) Metode BPS 
+
+Indeks Persepsi Anti Korupsi (IPAK) adalah indeks yang digunakan untuk memperoleh gambaran persepsi atau penilaian konsumen terhadap perilaku anti
+ 
+korupsi pada pelayanan di PST BPS. Aspek penghitungan adalah terkait penerapan perilaku anti korupsi dalam memberikan pelayanan yang meliputi tidak ada diskriminasi, tidak ada praktik suap, tidak ada pungutan liar (pungli), serta tidak ada praktik percaloan. Nilai IPAK diperoleh dengan melakukan penghitungan rata-rata tertimbang skor tingkat kepuasan berdasarkan 5 atribut anti korupsi (variabel) yang ada di Blok II kuesioner VKD2024.
+
+Langkah-langkah penghitungan IPAK sebagai berikut:
+1.	Menghitung penimbang
+Penimbang diperoleh dengan cara membagi rata-rata tingkat kepentingan masing-masing atribut anti korupsi dengan jumlah rata-rata tingkat kepentingan seluruh atribut anti korupsi.
+Rumus penimbang:
+ 
+
+
+
+
+dengan:
+ 
+
+𝑤𝑖 =
+ 
+𝑦𝑖
+ 
+∑5	𝑦
+𝑖=1    𝑖
+ 
+
+𝑥 100%
+ 
+
+𝑤𝑖
+ 
+= penimbang atribut pelayanan ke-i, ∑5
+𝑖=1
+ 
+
+𝑤𝑖 = 1
+ 
+𝑦𝑖 = rata-rata tingkat kepentingan atribut anti korupsi ke-i i = 1,2,3,4,5
+2.	Menghitung rata-rata tertimbang skor kepuasan (IPAK’)
+IPAK’ diperoleh dengan cara menghitung rata-rata tertimbang skor kepuasan berdasarkan 5 (lima) atribut anti korupsi.
+Rumus IPAK’ :
+
+∑5	𝑤  𝑥	5
+ 
+
+
+
+dengan:
+ 
+𝐼𝑃𝐴𝐾′ =
+ 
+𝑖=1
+∑5
+𝑖=1
+ 
+𝑖
+
+𝑤𝑖
+ 
+𝑖
+= ∑ 𝑤𝑖
+𝑖=1
+ 
+𝑥𝑖
+ 
+
+𝑥𝑖 = rata-rata tingkat kepuasan atribut anti korupsi ke-i.
+ 
+3.	Menghitung IPAK
+Penghitungan IPAK’ menghasilkan nilai berkisar antara 1 sampai 10 sesuai dengan skala penilaian konsumen terhadap perilaku anti korupsi. IPAK merupakan hasil konversi nilai IPAK’ menggunakan rumus berikut:
+ 
+
+𝐼𝑃𝐴𝐾 =
+ 
+𝐼𝑃𝐴𝐾′
+
+ 
+𝑠𝑘𝑎𝑙𝑎 𝑚𝑎𝑘𝑠𝑖𝑚𝑢𝑚 𝑝𝑒𝑛𝑖𝑙𝑎𝑖𝑎𝑛
+ 
+
+× 100 =
+ 
+𝐼𝑃𝐴𝐾′
+
+ 
+10
+ 
+
+× 100
+ 
+
+
+Nilai IPAK semakin mendekati 100 menunjukkan bahwa perilaku anti korupsi semakin diterapkan dengan sangat baik pada PST BPS.
+
+
+
+## Indeks Persepsi Anti Korupsi (IPAK) Metode KemenPANRB
+
+
+
+Indeks Persepsi Anti Korupsi (IPAK) adalah indeks yang digunakan untuk memperoleh gambaran persepsi atau penilaian konsumen terhadap perilaku anti korupsi pada unit PST BPS sebagai unit penyelenggara pelayanan publik di BPS. Penghitungan IPAK berpedoman pada Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 4 Tahun 2023 tentang Pengusulan dan Evaluasi Zona Integritas 2023 dan Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 14 Tahun 2017 tentang Pedoman Penyusunan Survei Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik.
+
+Nilai IPAK digunakan dalam pembangunan dan evaluasi Zona Integritas pada satuan kerja BPS dalam mendukung program Pembangunan dan Evaluasi Zona Integritas menuju Wilayah Bebas dari Korupsi dan Wilayah Birokrasi Bersih dan Melayani di Instansi Pemerintah sebagaimana diatur dalam Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor 90 Tahun 2021.
+
+Aspek penghitungan adalah terkait penerapan perilaku anti korupsi dalam memberikan pelayanan yang meliputi tidak ada diskriminasi, tidak ada praktik suap, tidak ada pungutan liar (pungli), serta tidak ada praktik percaloan. Nilai IPAK diperoleh dengan melakukan penghitungan rata-rata tertimbang skor tingkat
+ 
+kepuasan berdasarkan 5 atribut anti korupsi (variabel) yang ada di Blok II kuesioner VKD2024.
+
+Langkah-langkah penghitungan IPAK sebagai berikut:
+1.	Menghitung Penimbang
+Penimbang diperoleh dengan menggunakan "nilai rata-rata tertimbang" masing-masing atribut pelayanan. Dalam penghitungan penimbang, setiap atribut pelayanan memiliki penimbang yang sama. Nilai penimbang ditetapkan dengan rumus, sebagai berikut:
+ 
+𝐵𝑜𝑏𝑜𝑡 𝑛𝑖𝑙𝑎𝑖 𝑟𝑎𝑡𝑎 − 𝑟𝑎𝑡𝑎 𝑡𝑒𝑟𝑡𝑖𝑚𝑏𝑎𝑛𝑔 =
+ 
+𝐽𝑢𝑚𝑙𝑎ℎ 𝐵𝑜𝑏𝑜𝑡
+
+ 
+𝐽𝑢𝑚𝑙𝑎ℎ 𝐴𝑡𝑟𝑖𝑏𝑢𝑡
+ 
+1
+=	= 𝑁
+𝑋
+ 
+
+dengan N = Bobot nilai per unsur Sehingga nilai penimbang sebagai berikut
+ 
+𝐵𝑜𝑏𝑜𝑡 𝑛𝑖𝑙𝑎𝑖 𝑟𝑎𝑡𝑎 − 𝑟𝑎𝑡𝑎 𝑡𝑒𝑟𝑡𝑖𝑚𝑏𝑎𝑛𝑔 =
+
+2.	Menghitung IPAK
+ 
+𝐽𝑢𝑚𝑙𝑎ℎ 𝐵𝑜𝑏𝑜𝑡
+
+ 
+𝐽𝑢𝑚𝑙𝑎ℎ 𝐴𝑡𝑟𝑖𝑏𝑢𝑡
+ 
+1
+=	= 0,20
+5
+ 
+Penghitungan IPAK menggunakan pendekatan nilai rata-rata tertimbang dengan rumus sebagai berikut:
+
+𝐼𝑃𝐴𝐾′ = 𝑇𝑜𝑡𝑎𝑙 𝑁𝑖𝑙𝑎𝑖 𝑃𝑒𝑟𝑠𝑒𝑝𝑠𝑖 𝑃𝑒𝑟 𝐴𝑡𝑟𝑖𝑏𝑢𝑡 𝑃𝑒𝑟𝑖𝑙𝑎𝑘𝑢 𝑥 𝑁𝑖𝑙𝑎𝑖 𝑃𝑒𝑛𝑖𝑚𝑏𝑎𝑛𝑔
+𝑇𝑜𝑡𝑎𝑙 𝐴𝑡𝑟𝑖𝑏𝑢𝑡 𝑃𝑒𝑟𝑖𝑙𝑎𝑘𝑢 𝑦𝑎𝑛𝑔 𝑡𝑒𝑟𝑖𝑠𝑖
+
+Penghitungan IPAK’ menghasilkan nilai berkisar antara 1 sampai 10 sesuai dengan skala penilaian konsumen terhadap perilaku anti korupsi dalam kuesioner VKD2024. Nilai IPAK dalam pelaksanaan evaluasi Zona Integritas menggunakan skala 4, sehingga nilai IPAK’ dikonversi ke skala maksimum 4, dengan rumus sebagai berikut:
+
+
+
+
+

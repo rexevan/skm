@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "LAPORAN HASIL SURVEI KEBUTUHAN DATA BPS KABUPATEN SIKKA"
+  author: "BPS Kabupaten Sikka"
+  date: "9/1/2024"
+  language: _language.yml
+  chapters:
+    - index.qmd
+    - 01-pendahuluan.qmd
+    - 02-metodologi.qmd
+    - 03-pengumpulan-data.qmd
+    - 04-pengolahan-data.qmd
+    - 05-analisis-data.qmd
+    - 06-rencana-tindak-lanjut.qmd
+    - 07-penutup.qmd
+    - 08-daftar-pustaka.qmd
+    - 09-lampiran.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

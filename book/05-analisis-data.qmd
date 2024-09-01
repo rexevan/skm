@@ -1,0 +1,19 @@
+# Analisis Data
+
+## Realisasi Pengumpulan Data {.unnumbered}
+
+## Indeks Kepuasan Pengguna Layanan
+
+### Indeks Kepuasan Konsumen (IKK) Metode BPS
+
+### Indeks Kepuasan Masyarakat (IKM) Metode KemenPANRB
+
+### Indeks Persepsi Kualitas Pelayanan (IPKP) Metode KemenPANRB
+
+
+## Indeks Persepsi Anti Korupsi (IPAK)
+
+### Indeks Persepsi Anti Korupsi (IPAK) Metode BPS 
+
+### Indeks Persepsi Anti Korupsi (IPAK) Metode KemenPANRB
+

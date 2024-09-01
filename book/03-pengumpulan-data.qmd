@@ -1,0 +1,27 @@
+# Pengumpulan Data 
+
+## Pengumpulan data dengan metode wawancara
+
+Pengumpulan data dengan metode wawancara kepada responden dilakukan menggunakan kuesioner VKD24 dalam bentuk hardcopy. Wawancara dilakukan setelah responden selesai mendapatkan pelayanan. Selanjutnya, responden diminta mengisi kuesioner secara mandiri untuk pertanyaan yang berhubungan dengan persepsi, yaitu pada Blok II dan Blok III Kolom 11.
+
+
+## Pengumpulan data dengan swacacah (*self-enumeration*)
+
+Pencacahan elektronik (online) merupakan pencacahan yang dilakukan terhadap responden melalui aplikasi berbasis website, yaitu Aplikasi SKD2024. Secara garis besar, ada tiga cara bagi responden dalam mengakses kuesioner VKD24 online, yaitu:
+
+1.	*Online*-Email, yaitu akses masuk pengisian kuesioner VKD24 melalui tautan (link) yang diberikan via e-mail responden. Link ini bersifat unik untuk setiap responden.
+
+2.	*Online*-PST, yaitu akses masuk pengisian kuesioner VKD24 melalui form entri pada web browser komputer di unit PST.
+
+3.	*Online*–Link, yaitu akses masuk pengisian kuesioner VKD24 melalui link yang terdapat pada aplikasi layanan statistik BPS (seperti: website BPS, aplikasi Allstats BPS, PST Online, Sirusa, e-mail, maupun media layanan lainnya). Contoh: fitur *running text* pada website BPS.
+
+
+
+## Aplikasi SKD2024
+
+Aplikasi SKD 2024 merupakan aplikasi berbasis website (online) yang dibuat untuk memudahkan perekaman dan pemantauan jawaban responden terhadap pertanyaan dalam kuesioner SKD 2024.
+
+[gambar halaman blok 1 - 5, dll.]
+
+
+
