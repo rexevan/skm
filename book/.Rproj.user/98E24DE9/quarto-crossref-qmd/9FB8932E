@@ -1,0 +1,18 @@
+{
+    "entries": [
+        {
+            "file": "02-metodologi.qmd",
+            "type": "tbl",
+            "id": "jadwal-skd",
+            "suffix": "",
+            "title": "Jadwal Kegiatan SKD 2024"
+        },
+        {
+            "file": "02-metodologi.qmd",
+            "type": "tbl",
+            "id": "target-responden",
+            "suffix": "",
+            "title": "Target Responden"
+        }
+    ]
+}

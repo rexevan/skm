@@ -13,3 +13,7 @@ Laporan hasil pelaksanaan SKD2024 memberikan gambaran mengenai tingkat kepuasan 
 |     |                                  |
 |     |                                  |
 |     | Kristanto Setyo Utomo, SST, M.Si |
+
+
+\listoftables
+\listoffigures

@@ -48,21 +48,15 @@ $$
 TK = \frac{\bar x}{\bar y} \times 100\%
 $$
 
-dengan:
-
-$TK$ = tingkat kesesuaian,
-
-$\bar x$ = rata-rata tingkat kepuasan,
-
-$\bar y$ = rata-rata tingkat kepentingan.
+dengan: $TK$ adalah tingkat kesesuaian, $\bar x$ = rata-rata tingkat kepuasan, dan $\bar y$ = rata-rata tingkat kepentingan.
 
 Kriteria penilaian tingkat kesesuaian adalah:
 
-$TK > 100\%$ : kinerja pelayanan melebihi harapan konsumen,
+-    $TK > 100\%$ berarti kinerja pelayanan melebihi harapan konsumen,
 
-$TK = 100\%$ : kinerja pelayanan sesuai harapan konsumen,
+-   $TK = 100\%$ berarti kinerja pelayanan sesuai harapan konsumen,
 
-$TK < 100\%$ : kinerja pelayanan belum sesuai harapan konsumen.
+-   $TK < 100\%$ berarti kinerja pelayanan belum sesuai harapan konsumen.
 
 2.  Diagram cartesius
 
@@ -72,19 +66,25 @@ Diagram cartesius merupakan analisis yang digunakan untuk menggambarkan hubungan
 
 Masing-masing kuadran yang terbentuk memiliki makna yang berbeda.
 
--   Kuadran A (*high importance and low performance*); Kuadran A terletak di sebelah kiri atas atau kuadran “Tingkatkan Kinerja” yang berarti bahwa prioritas utama dari suatu atribut pelayanan adalah peningkatan kinerja (performance improvement). Kuadran ini memuat atribut pelayanan yang dianggap penting oleh pengguna layanan, tetapi faktanya kinerja atribut pelayanan tersebut belum sesuai dengan harapan para pengguna layanan. Dengan kata lain, kinerja atribut pelayanan tersebut lebih rendah dari harapan pengguna layanan terhadap atribut pelayanan tersebut. Atribut pelayanan yang terdapat dalam kuadran ini harus lebih ditingkatkan agar dapat memenuhi harapan pemangku kepentingan/pengguna layanan. Cara yang dapat dilakukan oleh penyedia layanan adalah perbaikan secara terus menerus terhadap kinerja, sehingga performance dari atribut pelayanan yang ada dalam kuadran ini akan meningkat.
+-   Kuadran A (*high importance and low performance*);
 
--   Kuadran B (*high importance and high performance*); Kuadran B atau Kuadran “Pertahankan Kinerja” terletak di sebelah kanan atas, yang memiliki arti bahwa kinerja suatu atribut pelayanan sudah dapat memenuhi harapan pengguna layanan dan penyedia layanan harus berusah mempertahankan kinerja tersebut. Kuadran ini memuat atribut pelayanan yang dianggap penting oleh pengguna layanan dan kinerja atribut pelayanan dianggap sudah sesuai dengan yang dirasakan oleh pengguna layanan, sehingga tingkat kepuasannya relatif tinggi. Kinerja atribut pelayanan yang termasuk dalam kuadran ini harus dipertahankan.
+    Kuadran A terletak di sebelah kiri atas atau kuadran “Tingkatkan Kinerja” yang berarti bahwa prioritas utama dari suatu atribut pelayanan adalah peningkatan kinerja (performance improvement). Kuadran ini memuat atribut pelayanan yang dianggap penting oleh pengguna layanan, tetapi faktanya kinerja atribut pelayanan tersebut belum sesuai dengan harapan para pengguna layanan. Dengan kata lain, kinerja atribut pelayanan tersebut lebih rendah dari harapan pengguna layanan terhadap atribut pelayanan tersebut. Atribut pelayanan yang terdapat dalam kuadran ini harus lebih ditingkatkan agar dapat memenuhi harapan pemangku kepentingan/pengguna layanan. Cara yang dapat dilakukan oleh penyedia layanan adalah perbaikan secara terus menerus terhadap kinerja, sehingga performance dari atribut pelayanan yang ada dalam kuadran ini akan meningkat.
 
--   Kuadran C (*low importance and low performance*); Kuadran C terletak di sebelah kiri bawah atau disebut sebagai Kuadran “Prioritas Rendah”. Kuadran ini memuat atribut pelayanan yang dianggap kurang penting oleh pengguna layanan dan faktanya kinerja atribut pelayanan tersebut tidak terlalu istimewa. Peningkatan kinerja atribut pelayanan yang termasuk dalam kuadran ini bukan menjadi prioritas utama, sehingga dapat dipertimbangkan kembali karena pengaruhnya terhadap manfaat yang dirasakan oleh pemangku kepentingan/pengguna layanan sangat kecil.
+-   Kuadran B (*high importance and high performance*);
 
--   Kuadran D; Kuadran *“cenderung berlebihan”* terletak di sebelah kanan bawah mempunyai arti kinerja yang berlebihan namun pengguna layanan menganggap kurang penting. Kuadran ini memuat atribut pelayanan yang dianggap kurang penting oleh pemangku kepentingan/pengguna layanan. Kinerja atribut pelayanan dalam kuadran ini dapat dikurangi agar penyedia layanan dapat melakukan penghematan sumber daya.
+    Kuadran B atau Kuadran “Pertahankan Kinerja” terletak di sebelah kanan atas, yang memiliki arti bahwa kinerja suatu atribut pelayanan sudah dapat memenuhi harapan pengguna layanan dan penyedia layanan harus berusah mempertahankan kinerja tersebut. Kuadran ini memuat atribut pelayanan yang dianggap penting oleh pengguna layanan dan kinerja atribut pelayanan dianggap sudah sesuai dengan yang dirasakan oleh pengguna layanan, sehingga tingkat kepuasannya relatif tinggi. Kinerja atribut pelayanan yang termasuk dalam kuadran ini harus dipertahankan.
+
+-   Kuadran C (*low importance and low performance*);
+
+    Kuadran C terletak di sebelah kiri bawah atau disebut sebagai Kuadran “Prioritas Rendah”. Kuadran ini memuat atribut pelayanan yang dianggap kurang penting oleh pengguna layanan dan faktanya kinerja atribut pelayanan tersebut tidak terlalu istimewa. Peningkatan kinerja atribut pelayanan yang termasuk dalam kuadran ini bukan menjadi prioritas utama, sehingga dapat dipertimbangkan kembali karena pengaruhnya terhadap manfaat yang dirasakan oleh pemangku kepentingan/pengguna layanan sangat kecil.
+
+-   Kuadran D;
+
+    Kuadran *“cenderung berlebihan”* terletak di sebelah kanan bawah mempunyai arti kinerja yang berlebihan namun pengguna layanan menganggap kurang penting. Kuadran ini memuat atribut pelayanan yang dianggap kurang penting oleh pemangku kepentingan/pengguna layanan. Kinerja atribut pelayanan dalam kuadran ini dapat dikurangi agar penyedia layanan dapat melakukan penghematan sumber daya.
 
 ## Cakupan Responden
 
-Responden SKD 2024 adalah konsumen yang menerima pelayanan dari unit PST BPS Kabupaten Sikka sejak 1 Januari 2024 sampai dengan akhir periode pengumpulan data (31 Desember 2024). Pelayanan yang diberikan dari Unit PST BPS Kabupaten Sikka
-
-dapat melalui tatap muka yaitu konsumen datang langsung ke Unit PST BPS; tanpa tatap muka melalui media telepon, faksimile, dan surat; atau melalui media daring (*online*) seperti website BPS, aplikasi Allstats BPS, PST *online*, e-mail, atau media layanan lainnya. Ketentuan responden SKD 2024 dapat dilihat pada Error! Reference source not found..
+Responden SKD 2024 adalah konsumen yang menerima pelayanan dari unit PST BPS Kabupaten Sikka sejak 1 Januari 2024 sampai dengan akhir periode pengumpulan data (31 Desember 2024). Pelayanan yang diberikan dari Unit PST BPS Kabupaten Sikka dapat melalui tatap muka yaitu konsumen datang langsung ke Unit PST BPS; tanpa tatap muka melalui media telepon, faksimile, dan surat; atau melalui media daring (*online*) seperti website BPS, aplikasi Allstats BPS, PST *online*, e-mail, atau media layanan lainnya. Ketentuan responden SKD 2024 dapat dilihat pada **Error! Reference source not found..**
 
 ## Target Responden
 
@@ -101,6 +101,15 @@ $p$ = perkiraan proporsi kejadian terhadap target populasi (khusus kejadian yang
 $e$ = *margin of error* (toleransi kesalahan estimasi karena sampel yang diambil tidak dapat mewakili populasinya). MoE tingkat provinsi ditentukan 12,35% dan tingkat kabupaten/kota 19%.
 
 $r$ = toleransi tingkat respons minimum
+
+| No. | Wilayah PST        | Jumlah Unit PST | Target per Unit (Orang) | Target Responden (Orang) |
+|:---:|:--------------------------------|------:|---------:|--------------:|
+| 1\. | BPS Pusat          |               1 |                     150 |                      150 |
+| 2\. | BPS Provinsi       |              35 |                      70 |                    2.450 |
+| 3\. | BPS Kabupaten Kota |             491 |                      30 |                   14.730 |
+|     |                    |                 |                  Jumlah |               **17.730** |
+
+: Target Responden {#tbl-target-responden}
 
 Kegiatan survei yang menggunakan metode non-probability sampling tidak mensyaratkan adanya ukuran sampel minimum karena disesuaikan dengan kebutuhan peneliti/pelaksana survei. Namun demikian, menurut beberapa penelitian, ukuran sampel yang dikatakan cukup untuk survei dengan metode sampling non-probability sampling adalah sebanyak 30 responden (Creswell, 2013, dan Saunders, 2016). Ukuran sampel yang dibutuhkan akan lebih besar seiring dengan semakin heterogen keadaan populasinya (Saunders, 2016, dan Guest, et al, 2006). Hal ini juga terkait dengan semakin luas wilayah cakupan responden.
 
@@ -120,44 +129,53 @@ Variabel yang dikumpulkan pada SKD 2024 meliputi:
 
 ## Jadwal Kegiatan
 
-| Kegiatan | Waktu |
-|-------------|-------------|
-| 1. Identifikasi Kebutuhan Data | M2 – M4 Jan |
-|-------------|-------------|
-| 2. Perancangan | M4 Jan – M2 Feb |
-|-------------|-------------|
-| 3. Implementasi Rancangan | M2 – M3 Februari |
-| 3.1. Briefing Petugas | M4 Februari |
-|-------------|-------------|
-| 4. Pengumpulan Data |  |
-| 4.1. Survei Kepuasan Masyarakat (SKM) | Maret – Desember |
-| 4.2. Survei Kebutuhan Data (SKD) | Maret – Desember |
-|-------------|-------------|
-| 5. Pengolahan Data |  |
-| 5.1. Survei Kepuasan Masyarakat (SKM)  Triwulanan | M4 Maret – M1 April |
-|  | M4 Juni – M1 Juli |
-|  | M4 September – M1 Oktober |
-|  | M4 Desember – M1 Januari 2025 |
-| 5.2. Survei Kepuasan Masyarakat (SKM) Semesteran | M4 Juni – M1 Juli |
-|  | M4 Desember – M1 Januari 2025 |
-| 5.3. Survei Kebutuhan Data (SKD) Tahunan | Oktober - November |
-|-------------|-------------|
-| 6. Analisis Data |  |
-| 6.1. Survei Kepuasan Masyarakat (SKM) - Triwulanan | M1 April M1 Juli |
-| | M1 Oktober |
-| | M1 Januari 2025 |
-| 6.2. Survei Kepuasan Masyarakat (SKM) - Semesteran | M1 Juli & M1 Januari 2025 |
-| 6.3. Survei Kebutuhan Data (SKD) - Tahunan | M3 November – M1 Desember |
-|-------------|-------------|
-| 7. Diseminasi Data |  |
-| 7.1. Survei Kepuasan Masyarakat (SKM) - Triwulanan | M1 April, M1 Juli, M1 Oktober, M1 Januari 2025 |
-| 7.2. Survei Kepuasan Masyarakat (SKM) - Semesteran | M1 Juli & M1 Januari 2025 |
-| 7.3. Survei Kebutuhan Data (SKD) - Tahunan | M1 Desember |
-|-------------|-------------|
-| 8. Evaluasi |  |
-| 8.1. Survei Kepuasan Masyarakat (SKM) - Triwulanan | M2 April M2 Juli, M2 Oktober, M2 Januari 2025 |
-| 8.2. Survei Kepuasan Masyarakat (SKM) - Semesteran | M2 Juli & M2 Januari 2025 |
-| 8.3. Survei Kepuasan Masyarakat (SKM) - Tahunan | M2 – M3 Januari 2025 |
-| 8.4. Survei Kebutuhan Data (SKD) | M2 – M3 Desember |
-: {tbl-colwidths="[60,40]"}
+Rangkaian pelaksanaan SKD 2024 dapat dilihat pada @tbl-jadwal-skd.
 
+| Kegiatan                              | Waktu                         |
+|---------------------------------------|-------------------------------|
+| 1\. Identifikasi Kebutuhan Data       | M2 – M4 Jan                   |
+|                                       |                               |
+| 2\. Perancangan                       | M4 Jan – M2 Feb               |
+|                                       |                               |
+| 3\. Implementasi Rancangan            | M2 – M3 Februari              |
+| 3.1. Briefing Petugas                 | M4 Februari                   |
+|                                       |                               |
+| 4\. Pengumpulan Data                  |                               |
+| 4.1. Survei Kepuasan Masyarakat (SKM) | Maret – Desember              |
+| 4.2. Survei Kebutuhan Data (SKD)      | Maret – Desember              |
+|                                       |                               |
+| 5\. Pengolahan Data                   |                               |
+| 5.1. SKM Triwulanan                   | M4 Maret – M1 April           |
+|                                       | M4 Juni – M1 Juli             |
+|                                       | M4 September – M1 Oktober     |
+|                                       | M4 Desember – M1 Januari 2025 |
+| 5.2. SKM Semesteran                   | M4 Juni – M1 Juli             |
+|                                       | M4 Desember – M1 Januari 2025 |
+| 5.3. SKD Tahunan                      | Oktober - November            |
+|                                       |                               |
+| 6\. Analisis Data                     |                               |
+| 6.1. SKM - Triwulanan                 | M1 April                      |
+|                                       | M1 Juli                       |
+|                                       | M1 Oktober                    |
+|                                       | M1 Januari 2025               |
+| 6.2. SKM - Semesteran                 | M1 Juli & M1 Januari 2025     |
+| 6.3. SKD - Tahunan                    | M3 November – M1 Desember     |
+|                                       |                               |
+| 7\. Diseminasi Data                   |                               |
+| 7.1. SKM - Triwulanan                 | M1 April                      |
+|                                       | M1 Juli                       |
+|                                       | M1 Oktober                    |
+|                                       | M1 Januari 2025               |
+| 7.2. SKM - Semesteran                 | M1 Juli & M1 Januari 2025     |
+| 7.3. SKD - Tahunan                    | M1 Desember                   |
+|                                       |                               |
+| 8\. Evaluasi                          |                               |
+| 8.1. SKM - Triwulanan                 | M2 April                      |
+|                                       | M2 Juli                       |
+|                                       | M2 Oktober                    |
+|                                       | M2 Januari 2025               |
+| 8.2. SKM - Semesteran                 | M2 Juli & M2 Januari 2025     |
+| 8.3. SKM - Tahunan                    | M2 – M3 Januari 2025          |
+| 8.4. SKD                              | M2 – M3 Desember              |
+
+: Jadwal Kegiatan SKD 2024 {#tbl-jadwal-skd tbl-colwidths="\[60,40\]"}
