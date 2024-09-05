@@ -1,5 +1,10 @@
 # Pengolahan Data
 
+ ```{=tex}
+\clearpage
+\clearpage
+```
+
 Pengolahan data hasil SKD2024 pada triwulan II mencakup realisasi hasil pengumpulan data dan tingkat kepuasan pengguna terhadap layanan PST BPS Kabupaten Sikka.Hasil pengolahan data berupa jumlah, persentase, dan indeks yang disajikan dalam bentuk table dan grafik.
 
 ## Tabulasi Data
@@ -20,13 +25,11 @@ $$
 w_i = \frac{\bar y_i}{\sum_{i = 1}^{12} {\bar y_i}}
 $$
 
-dengan:
+dengan: 
 
-$w_i$ = penimbang atribut pelayanan ke-$i$, $\sum_{i=1}^{12}{w_i} = 1$
+$w_i$ adalah penimbang atribut pelayanan ke-$i$, $\sum_{i=1}^{12}{w_i} = 1$
 
-$y_i$ = rata-rata tingkat kepentingan atribut pelayanan ke-$i$
-
-$i$ = 1, 2, …, 12
+$y_i$ adalah rata-rata tingkat kepentingan atribut pelayanan ke-$i$, $i$ = 1, 2, …, 12
 
 2.  Menghitung Rata-Rata Tertimbang Skor Kepuasan ($IKK’$)
 
@@ -38,9 +41,7 @@ $$
 IKK' = \frac{\sum_{i=1}^{12}{w_i \times \bar x_i}}{\sum_{i=1}^{12}{w_i}}
 $$
 
-dengan
-
-$x_i$ = rata-rata tingkat kepuasan atribut pelayanan ke-$i$
+dengan $x_i$ adalah rata-rata tingkat kepuasan atribut pelayanan ke-$i$
 
 3.  Menghitung IKK
 
@@ -120,7 +121,6 @@ $$
 |       2        | 2,60 - 3,064   |           65,00 - 76,60 |       C        |      Kurang Baik       |
 |       3        | 3,0644 - 3,532 |           76,61 - 88,30 |       B        |          Baik          |
 |       4        | 3,5324 - 4, 00 |          88,31 - 100,00 |       A        |      Sangat Baik       |
-|                |                |                         |                |                        |
 
 : Nilai Kinerja Unit Pelayanan {#tbl-nilai-kinerja-2}
 
@@ -156,9 +156,7 @@ dengan:
 
 $w_i$ adalah penimbang atribut pelayanan ke-$i$, $\sum_{i = 1}^{5}{w_i} = 1$;
 
-$\bar y_i$ adalah rata-rata tingkat kepentingan atribut anti korupsi ke-i
-
-$i$ = 1,2,3,4,5
+$\bar y_i$ adalah rata-rata tingkat kepentingan atribut anti korupsi ke-$i$, $i$ = 1,2,3,4,5
 
 2.  Menghitung rata-rata tertimbang skor kepuasan ($IPAK’$)
 
@@ -168,7 +166,7 @@ $$
 IPAK' = \frac{\sum_{i = 1}^{5}{w_i \bar x_i}}{\sum_{i = 1}^{5}{w_i}} = \sum_{i = 1}^{5}{w_i\bar x_i}
 $$
 
-dengan: $\bar x_i$ adalah rata-rata tingkat kepuasan atribut anti korupsi ke-$i$.
+dengan $\bar x_i$ adalah rata-rata tingkat kepuasan atribut anti korupsi ke-$i$.
 
 3.  Menghitung IPAK Penghitungan
 

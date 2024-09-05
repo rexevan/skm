@@ -1,5 +1,10 @@
 # Analisis Data
 
+ ```{=tex}
+\clearpage
+\clearpage
+```
+
 ## Realisasi Pengumpulan Data {.unnumbered}
 
 ## Indeks Kepuasan Pengguna Layanan
@@ -10,10 +15,8 @@
 
 ### Indeks Persepsi Kualitas Pelayanan (IPKP) Metode KemenPANRB
 
-
 ## Indeks Persepsi Anti Korupsi (IPAK)
 
-### Indeks Persepsi Anti Korupsi (IPAK) Metode BPS 
+### Indeks Persepsi Anti Korupsi (IPAK) Metode BPS
 
 ### Indeks Persepsi Anti Korupsi (IPAK) Metode KemenPANRB
-

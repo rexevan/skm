@@ -1,5 +1,9 @@
 # Metode Pengambilan Sampel
 
+ ```{=tex}
+\clearpage
+```
+
 Pengumpulan data SKD 2024 dilaksanakan di Unit Pelayanan Statistik Terpadu (PST) pada satker BPS Pusat, BPS Provinsi, dan BPS Kabupaten/Kota seluruh Indonesia. Periode pengumpulan data adalah pada 1 Maret - 31 Desember 2024, sedangkan referensi waktu dari data yang dikumpulkan adalah 1 Januari 2024 sampai dengan saat pencacahan.
 
 ## Metode Pengumpulan Data
@@ -52,7 +56,7 @@ dengan: $TK$ adalah tingkat kesesuaian, $\bar x$ = rata-rata tingkat kepuasan, d
 
 Kriteria penilaian tingkat kesesuaian adalah:
 
--    $TK > 100\%$ berarti kinerja pelayanan melebihi harapan konsumen,
+-   $TK > 100\%$ berarti kinerja pelayanan melebihi harapan konsumen,
 
 -   $TK = 100\%$ berarti kinerja pelayanan sesuai harapan konsumen,
 
@@ -84,7 +88,7 @@ Masing-masing kuadran yang terbentuk memiliki makna yang berbeda.
 
 ## Cakupan Responden
 
-Responden SKD 2024 adalah konsumen yang menerima pelayanan dari unit PST BPS Kabupaten Sikka sejak 1 Januari 2024 sampai dengan akhir periode pengumpulan data (31 Desember 2024). Pelayanan yang diberikan dari Unit PST BPS Kabupaten Sikka dapat melalui tatap muka yaitu konsumen datang langsung ke Unit PST BPS; tanpa tatap muka melalui media telepon, faksimile, dan surat; atau melalui media daring (*online*) seperti website BPS, aplikasi Allstats BPS, PST *online*, e-mail, atau media layanan lainnya. Ketentuan responden SKD 2024 dapat dilihat pada **Error! Reference source not found..**
+Responden SKD 2024 adalah konsumen yang menerima pelayanan dari unit PST BPS Kabupaten Sikka sejak 1 Januari 2024 sampai dengan akhir periode pengumpulan data (31 Desember 2024). Pelayanan yang diberikan dari Unit PST BPS Kabupaten Sikka dapat melalui tatap muka yaitu konsumen datang langsung ke Unit PST BPS; tanpa tatap muka melalui media telepon, faksimile, dan surat; atau melalui media daring (*online*) seperti website BPS, aplikasi Allstats BPS, PST *online*, e-mail, atau media layanan lainnya. Ketentuan responden SKD 2024 dapat dilihat pada @tbl-target-responden.
 
 ## Target Responden
 
@@ -103,7 +107,7 @@ $e$ = *margin of error* (toleransi kesalahan estimasi karena sampel yang diambil
 $r$ = toleransi tingkat respons minimum
 
 | No. | Wilayah PST        | Jumlah Unit PST | Target per Unit (Orang) | Target Responden (Orang) |
-|:---:|:--------------------------------|------:|---------:|--------------:|
+|:------------:|:-------------|-------------:|--------------:|---------------:|
 | 1\. | BPS Pusat          |               1 |                     150 |                      150 |
 | 2\. | BPS Provinsi       |              35 |                      70 |                    2.450 |
 | 3\. | BPS Kabupaten Kota |             491 |                      30 |                   14.730 |
@@ -140,11 +144,11 @@ Rangkaian pelaksanaan SKD 2024 dapat dilihat pada @tbl-jadwal-skd.
 | 3\. Implementasi Rancangan            | M2 – M3 Februari              |
 | 3.1. Briefing Petugas                 | M4 Februari                   |
 |                                       |                               |
-| 4\. Pengumpulan Data                  |                               |
+| **4. Pengumpulan Data**               |                               |
 | 4.1. Survei Kepuasan Masyarakat (SKM) | Maret – Desember              |
 | 4.2. Survei Kebutuhan Data (SKD)      | Maret – Desember              |
 |                                       |                               |
-| 5\. Pengolahan Data                   |                               |
+| **5. Pengolahan Data**                |                               |
 | 5.1. SKM Triwulanan                   | M4 Maret – M1 April           |
 |                                       | M4 Juni – M1 Juli             |
 |                                       | M4 September – M1 Oktober     |
@@ -153,7 +157,7 @@ Rangkaian pelaksanaan SKD 2024 dapat dilihat pada @tbl-jadwal-skd.
 |                                       | M4 Desember – M1 Januari 2025 |
 | 5.3. SKD Tahunan                      | Oktober - November            |
 |                                       |                               |
-| 6\. Analisis Data                     |                               |
+| **6. Analisis Data**                  |                               |
 | 6.1. SKM - Triwulanan                 | M1 April                      |
 |                                       | M1 Juli                       |
 |                                       | M1 Oktober                    |
@@ -161,7 +165,7 @@ Rangkaian pelaksanaan SKD 2024 dapat dilihat pada @tbl-jadwal-skd.
 | 6.2. SKM - Semesteran                 | M1 Juli & M1 Januari 2025     |
 | 6.3. SKD - Tahunan                    | M3 November – M1 Desember     |
 |                                       |                               |
-| 7\. Diseminasi Data                   |                               |
+| **7. Diseminasi Data**                |                               |
 | 7.1. SKM - Triwulanan                 | M1 April                      |
 |                                       | M1 Juli                       |
 |                                       | M1 Oktober                    |
@@ -169,7 +173,7 @@ Rangkaian pelaksanaan SKD 2024 dapat dilihat pada @tbl-jadwal-skd.
 | 7.2. SKM - Semesteran                 | M1 Juli & M1 Januari 2025     |
 | 7.3. SKD - Tahunan                    | M1 Desember                   |
 |                                       |                               |
-| 8\. Evaluasi                          |                               |
+| **8. Evaluasi**                       |                               |
 | 8.1. SKM - Triwulanan                 | M2 April                      |
 |                                       | M2 Juli                       |
 |                                       | M2 Oktober                    |

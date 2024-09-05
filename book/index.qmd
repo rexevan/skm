@@ -1,4 +1,4 @@
-# Kata Pegantar {.unnumbered}
+# Kata Pengantar {.unnumbered}
 
 Undang-Undang RI Nomor 25 Tahun 2009 tentang Pelayanan Publik mengatur bahwa setiap penyelenggara pelayanan publik berkewajiban melaksanakan evaluasi terhadap kinerja pelaksana pelayanan publik. Salah satu bentuk evaluasi ini diwujudkan melalui penyelenggaraan Survei Kepuasan Masyarakat (SKM) sebagaimana yang diatur dalam Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi RI Nomor 14 Tahun 2017 tentang Pedoman Penyusunan Survei Kepuasan Masyarakat Unit Penyelenggara Pelayanan Publik.
 
@@ -14,6 +14,10 @@ Laporan hasil pelaksanaan SKD2024 memberikan gambaran mengenai tingkat kepuasan 
 |     |                                  |
 |     | Kristanto Setyo Utomo, SST, M.Si |
 
-
+```{=tex}
+\pagenumbering{roman}
+\setcounter{page}{3}
+\tableofcontents
 \listoftables
 \listoffigures
+```

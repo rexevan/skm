@@ -1,10 +1,10 @@
 # Penutup
 
+ ```{=tex}
+\clearpage
+\clearpage
+```
 
-## Kesimpulan 
-
+## Kesimpulan
 
 ## Rekomendasi Perbaikan
-
-
-

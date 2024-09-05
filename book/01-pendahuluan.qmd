@@ -1,5 +1,12 @@
 # Pendahuluan
-
+ 
+ 
+ ```{=tex}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\cleardoubleplainpage
+```
+ 
 ## Umum
 
 Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik mengamanahkan kepada penyelenggara pelayanan publik, termasuk Badan Pusat Statistik (BPS), untuk melayani setiap warga negara dan penduduk dalam pemenuhan hak dan kebutuhan dasarnya dalam kerangka pelayanan publik. BPS memiliki tugas dan tanggung jawab memberi pelayanan melalui penyediaan data dan informasi statistik. Tugas dan tanggung jawab ini juga didasarkan pada Undang-Undang Nomor 16 Tahun 1997 tentang Statistik dan Peraturan Pemerintah Nomor 51 Tahun 1999 tentang Penyelenggaraan Statistik. BPS selalu berupaya menyediakan pelayanan data dan informasi statistik yang berkualitas Dalam penyebarluasan data dan informasi statistik, BPS menyediakan sarana Unit Pelayanan Statistik Terpadu (PST) yang merupakan pelayanan satu pintu atau one gate service dalam penyediaan data dan informasi statistik. Unit PST tersedia di setiap satuan kerja, baik di BPS Pusat, BPS Provinsi, maupun BPS Kabupaten/Kota.

@@ -1,5 +1,10 @@
 # Rencana Tindak Lanjut
 
+ ```{=tex}
+\clearpage
+\clearpage
+```
+
 ## Analisis Kesenjangan (*gap analysis*)
 
 ## Importance and Performance Analysis (IPA)

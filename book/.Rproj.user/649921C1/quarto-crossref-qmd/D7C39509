@@ -1,3 +1,25 @@
 {
-    "entries": []
+    "entries": [
+        {
+            "file": "04-pengolahan-data.qmd",
+            "type": "tbl",
+            "id": "nilai-kinerja",
+            "suffix": "-1",
+            "title": "Nilai Kinerja Unit Pelayanan"
+        },
+        {
+            "file": "04-pengolahan-data.qmd",
+            "type": "tbl",
+            "id": "nilai-kinerja",
+            "suffix": "-2",
+            "title": "Nilai Kinerja Unit Pelayanan"
+        },
+        {
+            "file": "04-pengolahan-data.qmd",
+            "type": "tbl",
+            "id": "kesesuaian-atribut",
+            "suffix": "",
+            "title": "Kesesuaian Atribut Pelayanan antara Kementerian PANRB dan BPS"
+        }
+    ]
 }

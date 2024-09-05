@@ -1,5 +1,10 @@
 # Pengumpulan Data
 
+ ```{=tex}
+\clearpage
+\clearpage
+```
+
 ## Pengumpulan data dengan metode wawancara
 
 Pengumpulan data dengan metode wawancara kepada responden dilakukan menggunakan kuesioner VKD24 dalam bentuk hardcopy. Wawancara dilakukan setelah responden selesai mendapatkan pelayanan. Selanjutnya, responden diminta mengisi kuesioner secara mandiri untuk pertanyaan yang berhubungan dengan persepsi, yaitu pada Blok II dan Blok III Kolom 11.
